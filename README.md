@@ -41,7 +41,6 @@
 - ### VPN клиент для NetCore VPN*
   - <i>* принадлежит CoreBox и NetCore VPN</i>
 - ### BarkGPT 2 и BarkGPT DeepMind
-- 
 
 ## Обо мне
 
