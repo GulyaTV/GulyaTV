@@ -4,7 +4,8 @@
 
 ## Языки программирования
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulyaTV&layout=compact&hide=html&theme=dark)
+![Все языки](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GulyaTV&theme=github_dark)  
+![Частота использования языков](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GulyaTV&theme=github_dark)
 
 ## Мои проекты
 ### 🐶 [The DOGS](https://gulyatvgames.tilda.ws/thedogs)
