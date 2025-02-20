@@ -7,7 +7,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulyaTV&layout=compact&hide=html&theme=dark)
 
 ## Мои проекты
-### 🏦 [The DOGS](https://gulyatvgames.tilda.ws/thedogs)
+### 🐶 [The DOGS](https://gulyatvgames.tilda.ws/thedogs)
 Симулятор собаки с различными механиками.
 
 ### 🐶 [Dog Next Door](https://gulyatvgames.tilda.ws/hellodog)
@@ -29,9 +29,19 @@
 - ### 🖼️ [Gulya AI Image](https://bark.gulyatv.ru/gulyaai-image) - AI для генерации изображений
 
 ### 🌐 [DogVPN](https://dogvpn.gulyatv.ru)
-#### DogBoost - скоро
+- #### DogBoost - скоро
 
-### Шарик (Гав) - голосовой помощник с ```BarkGPT```
+### 🐶 [Шарик (Гав)](https://gulyatvgames.tilda.ws/woof) - голосовой помощник с ```BarkGPT```.
+
+### 🎮 DogHub - лаунчер
+
+### 🎮 DogStore - магазин приложений (лаунчер) для Android
+
+### Скоро
+- ### VPN клиент для NetCore VPN*
+  - <i>* принадлежит CoreBox и NetCore VPN</i>
+- ### BarkGPT 2 и BarkGPT DeepMind
+- 
 
 ## Обо мне
 
