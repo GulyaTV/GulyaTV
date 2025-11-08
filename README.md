@@ -51,4 +51,4 @@
 
 - 📧 Email: [maxim11393@gmail.com](mailto:maxim11393@gmail.com)
 - Telegram: [@gulyatv](https://t.me/gulyatv)
-- 🌐 Личный сайт: [Gulya TV Games](https://gulyatvgames.tilda.ws);
+- 🌐 Личный сайт: [Gulya TV Games](https://gulyatvgames.tilda.ws)
